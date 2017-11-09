@@ -1,4 +1,4 @@
-package com.example.anmolagarwal.automation;
+package com.example.bhanu.automation;
 
 import org.junit.Test;
 
