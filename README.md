@@ -54,4 +54,4 @@ This is the todo list of the project. The things listed here are yet to be compl
 
 ## License
 
-The app is currently not being licensed. But it will licensed soon.
+The app is currently now being licensed.
